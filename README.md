@@ -1,7 +1,7 @@
-# MapReduce Word Count using Python
+# MapReduce Engine
 
 ## Project Title
-MapReduce Word Count using Python (Custom MapReduce Framework)
+MapReduce Engine From Scratch
 
 ## Objective
 This project demonstrates the working of the MapReduce programming model using Python. It counts the frequency of each word from an input text file by implementing the Map, Partition, Shuffle & Sort, and Reduce phases.
