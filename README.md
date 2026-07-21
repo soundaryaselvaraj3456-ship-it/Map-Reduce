@@ -1,7 +1,7 @@
 # MapReduce Engine
 
 ## Project Title
-MapReduce Engine From Scratch
+Distributed MapReduce Engine from Scratch with Hash Partitioning
 
 ## Objective
 This project demonstrates the working of the MapReduce programming model using Python. It counts the frequency of each word from an input text file by implementing the Map, Partition, Shuffle & Sort, and Reduce phases.
