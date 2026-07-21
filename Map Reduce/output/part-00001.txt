@@ -1,0 +1,3 @@
+Arun	12
+Priya	8
+Suresh	8
