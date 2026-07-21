@@ -13,6 +13,7 @@ Project/
 │── input.txt
 │── main.py
 │── mapper.py
+|── partition.py
 │── reducer.py
 │── intermediate/
 │── output/
